@@ -1,6 +1,6 @@
 # ECMAScript Features or Cheatsheet
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Connect with us on [@aashuu](https://www.devdisplay.org/profile/codeaashu) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. Connect with us on [aashuu](https://www.devdisplay.org/profile/codeaashu) for technical updates.
 
 ## How to run examples
 ```cmd
